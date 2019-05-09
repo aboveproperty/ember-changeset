@@ -29,7 +29,7 @@
   "homepage": "https://github.com/poteto/ember-changeset",
   "dependencies": {
     "ember-cli-babel": "^6.16.0",
-    "ember-deep-set": "^0.2.0"
+    "ember-deep-set": "0.1.4"
   },
   "devDependencies": {
     "@ember/optional-features": "^0.6.3",
